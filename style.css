@@ -1,0 +1,82 @@
+body {
+  font-family: sans-serif;
+  background-color: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #1e1e1e;
+  padding: 20px;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  border-radius: 50%;
+}
+
+h1 {
+  color: gold;
+}
+
+.slogan {
+  color: #ccc;
+  font-style: italic;
+}
+
+main {
+  padding: 20px;
+}
+
+.form-section, .mikeka {
+  background-color: #222;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+input, button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  background-color: gold;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background-color: #333;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+ul li button {
+  background-color: #25D366;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #1e1e1e;
+  color: #aaa;
+}
